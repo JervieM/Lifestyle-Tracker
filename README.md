@@ -11,7 +11,7 @@ user is expected to gain or lose in specific time frames.
 
 Input
 
-The system accepts five (5) commands, described below. Refer to the sample input.
+The system accepts five (5) commands, described below. 
 
 ● Food <name> <calories>
 
