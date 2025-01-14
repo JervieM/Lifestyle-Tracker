@@ -10,14 +10,25 @@ performed for the day, the net calories gained or lost for the day, and based on
 user is expected to gain or lose in specific time frames.
 
 Input
+
 The system accepts five (5) commands, described below. Refer to the sample input.
+
 ● Food <name> <calories>
+
 Record that the food named <name> contains <calories> calories per serving.
+
 ● Activity <name> <calories>
+
 Record that performing the activity named <name> burns <calories> calories per hour.
+
 ● Eat <name> <servings>
+
 Record that the user ate <servings> servings of the food named <name>.
+
 ● Perform <name> <hours>
+
 Record that the user performed the activity named <name> for <hours> hours.
+
 ● Report
+
 Print the report.
